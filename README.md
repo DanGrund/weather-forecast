@@ -1,10 +1,6 @@
 # React/Redux Weather Forecast Application
 
-This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
+utilizes the weather underground api
 
 ## Setup
-
-### `npm install`
-### `npm start`
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+an introduction to redux, this project utilizes an external api to pull down local weather information as well as weather for user specified zip codes. 
